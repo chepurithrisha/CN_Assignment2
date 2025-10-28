@@ -1,0 +1,8 @@
+
+SUMMARY
+Total queries: 106
+Success: 0
+Fail: 106
+Total elapsed time (s): 0.0033
+Average latency per query (ms) (incl failures): 0.021
+Throughput (successful resolutions/sec): 0.000
